@@ -17,5 +17,8 @@
     "quickSort."
   ],
   "author": "rdecoster",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+
+  }
 }
